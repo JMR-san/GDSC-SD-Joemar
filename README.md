@@ -12,6 +12,7 @@
 > Education: 
 >           
 > **College: *Polytechnic University of the Philippines***
+> - Bachelor of Science in Computer Science [ 1 - 3 ]
 > - GDSC, Software Development Cadet
 > - AWSCC - DSWD Member, UI/UX Junior Designer
 > 
